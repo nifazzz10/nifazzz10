@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @nifazzz10
+- 👋 Hi, I’m Nifaz
 - 👀 I’m interested in frontend and backend development 
-- 🌱 I’m currently learning frontend frameworks
+- 🌱 I’m currently working on frontend frameworks
 - 📫 Reach me --> nifazzz10@gmail.com
 
 <!---

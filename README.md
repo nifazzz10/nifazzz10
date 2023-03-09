@@ -5,17 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nifazzz10" alt="nifazzz10" /></a> </p>
 
-- 🔭 I’m currently working on [Portfolio](https://nifaz.live/)
+- 🔭 I’m currently working on [Portfolio](nifaz.live)
 
 - 🌱 I’m currently learning **graphql**
 
-- 👨‍💻 All of my projects are available at [https://nifaz.live/](https://nifaz.live/)
-
-- 💬 Ask me about **reactjs**
+- 👨‍💻 All of my projects are available at [nifaz.live](nifaz.live)
 
 - 📫 How to reach me **nifazzz11@gmail.com**
 
-- 📄 Know about my experiences [https://referral-resumes.s3.ap-south-1.amazonaws.com/nifaz.pdf](https://referral-resumes.s3.ap-south-1.amazonaws.com/nifaz.pdf)
+- 📄 Know about my experiences [tinyurl.com/cvnifaz](tinyurl.com/cvnifaz)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

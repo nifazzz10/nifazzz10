@@ -71,7 +71,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/nifazzz10/nifazzz10/blob/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/nifazzz10/nifazzz10/output/snake.svg" alt="Snake animation" />
 
 ###
 
